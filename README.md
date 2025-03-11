@@ -18,13 +18,21 @@ Check out the live demo of the website: [Form Validations](https://waqasahmed042
 - Empower Your Investments with Real-Time Market Insights & Smart Trading Tools! 🚀📈
 
    📱 **Fully Responsive Design** – Adapts seamlessly to all devices, ensuring a smooth trading experience on mobile, tablet, and desktop.
+
    📊 **Real-Time Market Data** – Provides live stock prices, indices, and market trends for informed decision-making.
+
    🔍 **Advanced Stock Search & Filters** – Enables users to quickly find stocks, ETFs, and commodities using smart filters and sorting options.
+   
    ⭐ **Analyst Ratings & Reviews** – Displays expert opinions, stock ratings, and investor sentiments for better trading insights.
+
    💰 **Secure Trading & Transactions** – Ensures safe and seamless trading with encrypted transactions and multiple payment options.
+
    📈 **Interactive Charts & Analysis Tools** – Offers real-time and historical data visualization with technical indicators for in-depth analysis.
+   
    🔔 **Custom Alerts & Notifications** – Keeps users updated with price movements, news alerts, and trading signals.
+
    📚 **Educational Resources & Market Insights** – Provides articles, tutorials, and expert insights to help users enhance their investment knowledge.
+   
    📍 **Brokerage Integration & Account Management** – Allows users to link brokerage accounts, manage portfolios, and execute trades efficiently.
 
    Would you like suggestions for animations or extra UX improvements? 🚀
