@@ -32,8 +32,8 @@ Check out the live demo of the website: [Form Validations](https://waqasahmed042
    🔔 **Custom Alerts & Notifications** – Keeps users updated with price movements, news alerts, and trading signals.
 
    📚 **Educational Resources & Market Insights** – Provides articles, tutorials, and expert insights to help users enhance their investment knowledge.
-   
-   📍 **Brokerage Integration & Account Management** – Allows users to link brokerage accounts, manage portfolios, and execute trades efficiently.
+
+   💼 **Brokerage Integration & Account Management** – Allows users to link brokerage accounts, manage portfolios, and execute trades efficiently.
 
    Would you like suggestions for animations or extra UX improvements? 🚀
 
